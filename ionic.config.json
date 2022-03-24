@@ -1,0 +1,7 @@
+{
+  "name": "ionic-react-qiita",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
