@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "ionic-react-qiita",
+	"webDir": "build",
+	"bundledWebRuntime": false
+}
